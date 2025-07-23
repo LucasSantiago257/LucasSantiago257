@@ -1,7 +1,9 @@
 # 👋 Olá, eu me chamo Lucas Santiago!
 
 🎓 Estudante de Ciência da Computação  
+
 💻 Foco em Java com Spring Boot, Python, E Machine Learning no geral!
+
 📊 Também atuo com análise de dados, planejamento estratégico e automações
 
 ---
