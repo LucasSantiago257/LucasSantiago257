@@ -20,7 +20,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasSantiago257&show_icons=true&theme=radical)
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantiago257&layout=compact&theme=radical)
 
 ---
