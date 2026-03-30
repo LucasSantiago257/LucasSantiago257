@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Lucas Santiago!
 
-🎓 Estudante de Ciência da Computação  
+🎓 Engenheiro Júnior 
 
 💻 Foco em Java com Spring Boot, Python, E Machine Learning no geral!
 
@@ -15,13 +15,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas de Lucas](https://github-readme-stats.vercel.app/api?username=LucasSantiago257&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantiago257&layout=compact&theme=radical)
 
 ---
 
