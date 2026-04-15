@@ -18,14 +18,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-🔥 [**Caderneta Escolar para Manipulação de Dados**](https://github.com/LucasSantiago257/projeto_caderneta) (Em desenvolvimento, aguarde! :) )
-
-💸 [**Conversor de Músicas do Spotify pro YT Music Usando Python e APIs!**](https://www.linkedin.com/feed/update/urn:li:activity:7330627048165609472/) (Ainda não está público, mas pode olhar como foi feito no meu LinkedIn!)
-
----
-
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-santiago-259a94266/)
