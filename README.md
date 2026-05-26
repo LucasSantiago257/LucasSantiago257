@@ -1,6 +1,6 @@
 # 👋 Olá, eu me chamo Lucas Santiago!
 
-🎓 Engenheiro Júnior 
+🎓 Engenheiro de Dados na Neoenergia
 
 💻 Foco em Java com Spring Boot, Python, E Machine Learning no geral!
 
